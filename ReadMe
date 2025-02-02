@@ -1,14 +1,39 @@
-Hi 👋, I'm Nitya Dangarh
+<h1>Hi 👋, I'm Nitya Dangarh</h1>
 
-About Me:
+<h2>About Me 🚀</h2>
+<ul>
+  <li>🎓 I’m currently pursuing my studies at <strong>SRM University, Kattankulathur, Chennai</strong>.</li>
+  <li>🤝 Actively seeking <strong>internship opportunities</strong> to gain hands-on experience.</li>
+  <li>🌱 Passionate about <strong>Web Development, Programming, and Open Source</strong> contributions.</li>
+</ul>
 
-🎓 I’m currently studying at SRM University, Kattankulathur Chennai
-🤝 Looking for internship opportunities
-🌱 Passionate about Web Development, Programming, and Open Source
+<h2>Languages and Tools 🛠️</h2>
 
-Languages and Tools:
+<h3>Programming Languages:</h3>
+<ul>
+  <li>⚡ C</li>
+  <li>⚡ C++</li>
+  <li>⚡ JavaScript</li>
+</ul>
 
-Programming Languages: C, C++, JavaScript
-Web Technologies: HTML, CSS, React.js, Node.js
-Databases: MySQL
-Other Tools: Flutter, Git, Linux
+<h3>Web Technologies:</h3>
+<ul>
+  <li>🌐 HTML</li>
+  <li>🎨 CSS</li>
+  <li>⚛️ React.js</li>
+  <li>🛠️ Node.js</li>
+</ul>
+
+<h3>Databases:</h3>
+<ul>
+  <li>💾 MySQL</li>
+</ul>
+
+<h3>Other Tools:</h3>
+<ul>
+  <li>📱 Flutter</li>
+  <li>🔧 Git</li>
+  <li>🐧 Linux</li>
+</ul>
+
+<p>💡 Always eager to learn new technologies and contribute to impactful projects!</p>
